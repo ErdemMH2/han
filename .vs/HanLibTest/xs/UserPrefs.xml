@@ -1,0 +1,59 @@
+﻿<Properties StartupConfiguration="{FA8177DD-C89A-E37C-740B-F9C023042DD9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/src/Mvc/Model/ListModel.cs">
+    <Files>
+      <File FileName="Assets/src/Mvc/Model/ModelMerger.cs" Line="88" Column="14" />
+      <File FileName="Assets/src/Mvc/Model/ListModel.cs" Line="11" Column="25" />
+      <File FileName="Assets/DenemeScripti.cs" Line="15" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HanLibTest" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="src" expanded="True">
+                <Node name="Basic" expanded="True" />
+                <Node name="Collections" expanded="True" />
+                <Node name="Debug" expanded="True" />
+                <Node name="Mvc" expanded="True">
+                  <Node name="Model" expanded="True">
+                    <Node name="ListModel.cs" selected="True" />
+                  </Node>
+                </Node>
+                <Node name="Structure" expanded="True">
+                  <Node name="Pattern" expanded="True" />
+                </Node>
+                <Node name="Test" expanded="True" />
+              </Node>
+              <Node name="test" expanded="True">
+                <Node name="Basic" expanded="True">
+                  <Node name="SystemTest" expanded="True" />
+                  <Node name="UnitTest" expanded="True" />
+                </Node>
+                <Node name="Key" expanded="True">
+                  <Node name="Manual" expanded="True" />
+                </Node>
+                <Node name="MVC" expanded="True">
+                  <Node name="UnitTest" expanded="True" />
+                </Node>
+                <Node name="Stat" expanded="True">
+                  <Node name="SystemTest" expanded="True" />
+                  <Node name="UnitTest" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6ccbd330-4ae4-438a-9b74-d2fca601f60d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mesutozdogan/Desktop/HanLibTest/Assets/test/Basic/UnitTest/TestIncrementalIdUnitTest.cs" relfile="Assets/test/Basic/UnitTest/TestIncrementalIdUnitTest.cs" line="40" column="1" />
+      <Breakpoint file="/Users/mesutozdogan/Desktop/HanLibTest/Assets/src/Basic/Signal/TwoDirectionalBinding.cs" relfile="Assets/src/Basic/Signal/TwoDirectionalBinding.cs" line="106" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d029e18367054ea4eabdf8c619dfa49e, type: 3}
+  m_Name: TestKeyTestCollection
+  m_EditorClassIdentifier: 
+  m_keys:
+  - m_name: TestKey1
+    m_hash: 2880015093
+    m_fullPath: TestKey1
+  - m_name: Stenght
+    m_hash: 2821612041
+    m_fullPath: Stenght
+  TestKey1:
+    m_name: TestKey1
+    m_hash: 2880015093
+    m_fullPath: TestKey1
+  Stenght:
+    m_name: Stenght
+    m_hash: 2821612041
+    m_fullPath: Stenght
+  NotInitializedKey:
+    m_name: 
+    m_hash: 0
+    m_fullPath: 
+  WrongInitializedKey:
+    m_name: WrongInitializedKey
+    m_hash: 3495963837
+    m_fullPath: WrongInitializedKey
